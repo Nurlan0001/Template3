@@ -1,0 +1,247 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+  height: 100%;
+
+    
+   
+}
+a{
+    color: grey;
+}
+ul{
+    list-style-type: none;
+}
+.main .Alison{
+    width: 100%;
+    height: 100px;
+    background-color: yellowgreen;
+}
+.main .bar{
+    width: 100%;
+    height:100px;
+    background-color: #efe6e6;
+}
+.main .Icons{
+    width: 100%;
+    height: 100px;
+    background-color: #efe6e6;
+}
+.Alison h4{
+    
+ color:white;
+ margin-top: 30px;
+ text-align: center;
+ font-family: 'Sunflower', sans-serif;
+}
+.Alison p{
+    text-align: center;
+margin-top: -3px;
+    
+}
+.bar ul{
+    float: left;
+}
+.bar li{
+    float: left;
+    font-family: 'Dancing Script', cursive;
+    margin-top: 39px;
+    font-size: 16px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.Icons ul{
+
+    float: left;
+
+}
+.Icons li{
+    float: left;
+    color: gray;
+    margin-top: 37px;
+    font-size: 22px;
+    margin-left: 15px;
+}
+.vegetables{
+    width: 100%;
+    height: 600px;
+    background-attachment: fixed;
+    background-image: url("../images/vegetables2.jpg");
+    background-size: cover;
+
+}
+.food{
+    width: 35%;
+    height: 600px;
+    background-color: rgba(252, 222, 222,0.5)
+}
+.bar li:hover{
+    color:whitesmoke;
+    transition: .6s linear
+    
+}
+.food h1{
+    font-family: 'Sunflower', sans-serif;
+ text-align: center;
+ margin-top: 100px;
+}
+.food button{
+    width: 50%;
+    height: 50px;
+    margin-left: 80px;
+    margin-top: 50px;
+    background-color: yellowgreen;
+    border: 0px;
+    cursor: pointer;
+}
+.food button:hover{
+ background-color: green;
+ transition: 0.5s linear;
+}
+.Vegetarian{
+    width: 100%;
+    background-size: cover;
+    background-image: url("../images/images3.jpg");
+    background-repeat: no-repeat;
+}
+.Meet{
+    height: 400px;
+    background-color:#e8e8e8;
+    font-family: 'Sunflower', sans-serif;
+}
+.Meet h1{
+    font-size: 30px;
+   margin-left: 99px;
+   margin-top: 100px;
+   color: #72726b;
+}
+.Meet p{
+    padding-left: 100px;
+    padding-right: 100px;
+    color: #72726b;
+    
+}
+.Meet h5{
+   margin-left: 99px;
+   margin-top: 72px;
+   color: yellowgreen;
+   cursor: pointer;
+}
+.Meet h5:hover{
+    color: green;
+    transition: 0.5s linear;
+}
+.Blog{
+    height: 180px;
+    background-color: #b2b2a6;
+    
+}
+.Blog h4{
+    text-align:center;
+    margin-top: 70px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Blog:hover{
+ background-color: grey;
+ transition: .5s linear;
+}
+.Tips{
+    background-color: yellowgreen;
+    height: 300px;
+}
+.Tips h3{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 70px;
+    margin-left: 70px;
+}
+.Tips p{
+     font-family: 'Times New Roman', Times, serif;
+   color: white;
+   padding-left: 70px;
+   padding-right: 100px;
+}
+.Food{
+    height: 430px;
+    background-size: cover;
+    background-image: url("../images/food.jpg");
+}
+.Services{
+    height: 180px;
+   
+    color: white;
+    background-color: yellowgreen;
+}
+.Services h3{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 70px;
+}
+.Services:hover{
+    background-color: green;
+    transition: .5s linear;
+}
+.Family{
+    background-color: gainsboro;
+    height: 300px;
+}
+.Family h4{
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 70px;
+}
+.Family p{
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.apple {
+    height: 420px;
+    margin-top: -50px;
+    background-image: url("../images/fruit.jpg");
+    background-repeat: no-repeat;
+}
+.black{
+    height: 330px;
+    background-image: url("../images/table1.png");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.email{
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+.knight h4{
+    font-size: 30px;
+    color:white;
+    margin-top: 120px;
+    text-align: center;
+    font-family: 'Sunflower', sans-serif;
+}
+.knight p{
+    text-align: center;
+    color: white;
+    margin-top: 5px;
+}
+.tel ul{
+    float: left;
+    text-align: center;
+    margin-left: 30px;
+}
+.tel li{
+    color: white;
+    font-size: 20px;
+    padding: 9px;
+    margin-top: -5px;
+
+    float: left;
+}
+.tel p{
+    color: white;
+    margin-top: 100px;
+    margin-left: 32px;
+}
